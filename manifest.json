@@ -7,17 +7,18 @@
   "theme_color": "#1e81b0",
   "icons": [
     {
-      "src": "otsystvia.png",
+      "src": "otsystvia.ico",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/ico"
     },
     {
-      "src": "otsystvia.png",
+      "src": "otsystvia.ico",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/ico"
     }
   ]
 }
+
 
 
 
